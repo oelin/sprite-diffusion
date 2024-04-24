@@ -1,8 +1,8 @@
 # Sprite Diffusion
 
-[Code](https://github.com/oelin/sprite-diffusion) | [Notebook](https://colab.research.google.com/github/oelin/sprite-diffusion/) | [Dataset](https://huggingface.co/datasets/mwkldeveloper/sprites_1788_16)
+ [Code](https://github.com/oelin/sprite-diffusion) | [Model](https://drive.google.com/file/d/1j0G_U7bbcCBYmh3Sx0fEdWOCm7MqS8I2/view?usp=sharing) | [Dataset](https://huggingface.co/datasets/mwkldeveloper/sprites_1788_16)
 
-Pixel art sprite generator using diffusion. 
+Pixel art sprite generation using diffusion. 
 
 ## Samples (40K steps)
 
